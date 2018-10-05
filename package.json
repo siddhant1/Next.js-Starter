@@ -1,0 +1,28 @@
+{
+  "name": "Next.js-Starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhant1/Next.js-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhant1/Next.js-Starter/issues"
+  },
+  "homepage": "https://github.com/siddhant1/Next.js-Starter#readme",
+  "dependencies": {
+    "eslint-plugin-react": "^7.11.1",
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
